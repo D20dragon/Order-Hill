@@ -1,0 +1,33 @@
+{
+  "id": "order-1-2",
+  "title": "Order Hill",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Order-Hill",
+      "label": "Order Hill",
+      "path": "packs/Order-Hill",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}
